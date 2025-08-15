@@ -50,8 +50,9 @@ Feel free to fork this repository, make improvements, and create pull requests.
 ---
 
 ■Author
-Varshitha Challa
+Varshitha Challa.
 Post Graduate at KL University.
+
 ---
 
 ■ License
