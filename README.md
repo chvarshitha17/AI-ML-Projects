@@ -52,5 +52,7 @@ Feel free to fork this repository, make improvements, and create pull requests.
 ■Author
 Varshitha Challa
 Post Graduate at KL University.
+---
+
 ■ License
 This repository is licensed under the **MIT License** – see the LICENSE file for details.
